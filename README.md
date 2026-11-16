@@ -171,3 +171,4 @@ Agar Supabase ulamoqchi bo'lsangiz:
 ## 📄 Litsenziya
 
 MIT License © 2026 UY MARKET. Barcha huquqlar himoyalangan.
+
